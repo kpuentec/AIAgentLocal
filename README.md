@@ -59,9 +59,9 @@ IMAP_PORT=993
 
 utils/
 
-   ├── email_tools.py          # Email fetch & summarize tools
+ -  ├── email_tools.py          # Email fetch & summarize tools
 
-   ├── calendar_tools.py       # Google Calendar event creation
+ - ├── calendar_tools.py       # Google Calendar event creation
 
 ├── main.py                 # Core orchestration & AI agent logic and graph
 
