@@ -47,7 +47,7 @@
    
 IMAP_HOST=imap.gmail.com
 
-IMAP_USER= your-email @gmail.com
+IMAP_USER=your-email @gmail.com
 
 IMAP_PASSWORD=your-app-password
 
