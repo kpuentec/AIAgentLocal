@@ -1,6 +1,6 @@
 # AIAgentLocal
 
-**AI Agent Local** is a local-first AI agent leveraging the qwen3:8b model from Ollama for powerful conversational workflows. Designed with privacy and security in mind, it integrates email and calendar management with AI tools while running entirely on your machine. Support for additional AI models is coming soon as well as additional tools.
+**AI Agent Local** is a local AI agent leveraging the qwen3:8b model from Ollama for powerful conversational workflows. Designed with privacy and security in mind, it integrates email and calendar management with AI tools while running entirely on your machine. Support for additional AI models is coming soon as well as additional tools.
 
 ---
 
