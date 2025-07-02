@@ -22,7 +22,7 @@
 
 - Gmail account with App Passwords enabled (required for IMAP access)
 - Google Cloud project with Calendar API enabled
-- [Python 3](https://www.python.org/) (required)
+- [Python 3](https://www.python.org/)
 - Git
 
 ---
@@ -46,9 +46,13 @@
 1. Create a .env file in your project folder with the following variables:
    
 IMAP_HOST=imap.gmail.com
+
 IMAP_USER=your-email@gmail.com
+
 IMAP_PASSWORD=your-app-password
+
 IMAP_FOLDER=Inbox
+
 IMAP_PORT=993
 
 *You must generate an App Password in your Google account security settings for IMAP_PASSWORD if you have 2FA enabled.*
