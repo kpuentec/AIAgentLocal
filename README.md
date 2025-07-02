@@ -22,7 +22,7 @@
 
 - Gmail account with App Passwords enabled (required for IMAP access)
 - Google Cloud project with Calendar API enabled
-- [Python 3](https://www.python.org/) (required for audio backend)
+- [Python 3](https://www.python.org/) (required)
 - Git
 
 ---
